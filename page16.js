@@ -20,50 +20,46 @@ $(document).ready(function(){
 			{ name:'My SKUS', url:'page8.html', target:'_self'},
 			{ name:'Order',
 				children: [
-					{ name:'Create GR Orders'},
-					{ name:'Create GI Orders'}
+					{ name:'Create GR Orders', url:'page51.html', target:'_self'},
+					{ name:'Create GI Orders', url:'page52.html', target:'_self'}
 				]},
-			{ name:'Inquiry'}
+			{ name:'Inquiry', url:'page16.html', target:'_self'}
 			]},
 		{ name:'WMS', open: true,
 			children: [
 			{ name:'Goods Receipt',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page27.html', target:'_self'}
 				]},
 			{ name:'Put Away',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page29.html', target:'_self'}
 				]},
 			{ name:'Pick',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page31.html', target:'_self'}
 				]},
 			{ name:'Deliery',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page33.html', target:'_self'}
 				]},
 			{ name:'Report',
 				children: [
-					{ name:'Phy Inv Report'}
+					{ name:'Report', url:'page35.html', target:'_self'}
 				]},
 			{ name:'System',
 				children: [
 					{ name:'User and Role',
 						children: [
-								{ name:'User'},
-								{ name:'Role'}
+								{ name:'User', url:'page37.html', target:'_self'},
+								{ name:'Role', url:'page38.html', target:'_self'}
 						]},
 					{ name:'Org Structrue',
 						children: [
-								{ name:'Zone'},
-								{ name:'Bin'}
+								{ name:'Zone', url:'page40.html', target:'_self'},
+								{ name:'Bin', url:'page41.html', target:'_self'}
 						]},
-					{ name:'PDA Manager'}
-				]},
-			{ name:'Message Center',
-				children: [
-					{ name:'System Post'}
+					{ name:'PDA Manager', url:'page42.html', target:'_self'}
 				]}
 			]}
 	]
