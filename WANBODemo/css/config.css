@@ -5322,6 +5322,13 @@ body{font-size:12px;}
   width: 100%;
 }
 
+#page40_jButton1{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height: 22px;
+}
+
 #page41_jContainer1{
   left: 0px;
   top: 0px;
@@ -5452,18 +5459,25 @@ body{font-size:12px;}
   border-right:none;
 }
 
+#page41_jButton2{
+  left: 5px;
+  top: 5px;
+  width:56px;
+  height: 22px;
+}
+
+#page41_jButton1{
+  left: 77px;
+  top: 6px;
+  width:56px;
+  height: 22px;
+}
+
 #page41_jSeparator1{
   left: 207px;
   top: 5px;
   height: 18px;
   width: 8px;
-}
-
-#page41_jButton1{
-  left: 4px;
-  top: 4px;
-  width:56px;
-  height: 22px;
 }
 
 #page41_jPanel3{
