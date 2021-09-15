@@ -12,5 +12,5 @@
 	});
 	
 	mui('#page14_jButton1')[0].addEventListener('tap', function(e) {
-		window.open('page6.html','_self');
+		window.open('page15.html','_self');
 	})

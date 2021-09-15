@@ -215,14 +215,6 @@
   font-size: 14px;
 }
 
-#page13_jPanel1{
-  background: #0080C0;
-}
-
-#page13_jLabel5{
-  font-size: 14px;
-}
-
 #page14_jPanel1{
   background: #0080C0;
 }
@@ -262,14 +254,6 @@
 }
 
 #page16_jLabel5{
-  font-size: 14px;
-}
-
-#page17_jPanel1{
-  background: #0080C0;
-}
-
-#page17_jLabel5{
   font-size: 14px;
 }
 
@@ -317,5 +301,29 @@
 
 #page23_jPanel1{
   background: #0080C0;
+}
+
+#page24_jPanel1{
+  background: #0080C0;
+}
+
+#page24_jLabel6{
+  font-size: 16px;
+}
+
+#page24_jLabel26{
+  font-size: 16px;
+}
+
+#page25_jPanel1{
+  background: #0080C0;
+}
+
+#page25_jLabel6{
+  font-size: 16px;
+}
+
+#page25_jLabel26{
+  font-size: 16px;
 }
 

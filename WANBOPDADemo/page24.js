@@ -10,7 +10,3 @@
 			release: true
 		}
 	});
-	
-	mui('#page18_jButton1')[0].addEventListener('tap', function(e) {
-		window.open('page19.html','_self');
-	})
