@@ -15,55 +15,51 @@ $(document).ready(function(){
 	var page8_jTreeView1_setting = {
 	};
 	var page8_jTreeView1_zNodes =[
-		{ name:'OMS',
+		{ name:'OMS', open: true,
 			children: [
 			{ name:'My SKUS', url:'page8.html', target:'_self'},
 			{ name:'Order',
 				children: [
-					{ name:'Create GR Orders'},
-					{ name:'Create GI Orders'}
+					{ name:'Create GR Orders', url:'page51.html', target:'_self'},
+					{ name:'Create GI Orders', url:'page52.html', target:'_self'}
 				]},
-			{ name:'Inquiry'}
+			{ name:'Inquiry', url:'page16.html', target:'_self'}
 			]},
-		{ name:'WMS',
+		{ name:'WMS', open: true,
 			children: [
 			{ name:'Goods Receipt',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page27.html', target:'_self'}
 				]},
 			{ name:'Put Away',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page29.html', target:'_self'}
 				]},
 			{ name:'Pick',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page31.html', target:'_self'}
 				]},
 			{ name:'Deliery',
 				children: [
-					{ name:'Search'}
+					{ name:'Search', url:'page33.html', target:'_self'}
 				]},
 			{ name:'Report',
 				children: [
-					{ name:'Phy Inv Report'}
+					{ name:'Report', url:'page35.html', target:'_self'}
 				]},
 			{ name:'System',
 				children: [
 					{ name:'User and Role',
 						children: [
-								{ name:'User'},
-								{ name:'Role'}
+								{ name:'User', url:'page37.html', target:'_self'},
+								{ name:'Role', url:'page38.html', target:'_self'}
 						]},
 					{ name:'Org Structrue',
 						children: [
-								{ name:'Zone'},
-								{ name:'Bin'}
+								{ name:'Zone', url:'page40.html', target:'_self'},
+								{ name:'Bin', url:'page41.html', target:'_self'}
 						]},
-					{ name:'PDA Manager'}
-				]},
-			{ name:'Message Center',
-				children: [
-					{ name:'System Post'}
+					{ name:'PDA Manager', url:'page42.html', target:'_self'}
 				]}
 			]}
 	]
@@ -77,38 +73,37 @@ jQuery().ready(function(){
 		rownumbers: true,
 		altRows:true,
 		viewrecords: true,
-		colNames:['SKU','Brand','Product Name','UoM','Country of Origin',''],
+		colNames:['SKU','Brand','Product Name','UoM','FBA#'],
 		colModel:[
 			{name:'A0',index:'A0', width:64},
-			{name:'A1',index:'A1', width:127},
+			{name:'A1',index:'A1', width:86},
 			{name:'A2',index:'A2', width:85},
 			{name:'A3',index:'A3', width:92},
-			{name:'A4',index:'A4', width:109},
-			{name:'A5',index:'A5', width:145}
+			{name:'A4',index:'A4', width:64}
 		],
-		width: 622,
+		width: 739,
 		height: 184
 	}).navGrid('#page8_jDataGrid1_pager',{edit:false,add:false,del:false,refresh:false,search:false});
 	$('#page8_jDataGrid1_table').closest('.ui-jqgrid-bdiv').css({'overflow-y': 'auto'});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',1,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',2,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',3,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',4,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',5,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',6,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',7,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',8,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',9,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',10,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',11,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',12,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',13,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',14,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',15,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',16,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',17,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',18,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',19,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',1,{A0:'Sku00001',A1:'Brand',A2:'Product Name',A3:'PCS',A4:'FBA#'});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',2,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',3,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',4,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',5,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',6,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',7,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',8,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',9,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',10,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',11,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',12,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',13,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',14,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',15,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',16,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',17,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',18,{A0:'',A1:'',A2:'',A3:'',A4:''});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',19,{A0:'',A1:'',A2:'',A3:'',A4:''});
 	$('#page8_jDataGrid1_table').trigger('reloadGrid');
 })
 
