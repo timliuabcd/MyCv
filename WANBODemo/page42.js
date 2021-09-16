@@ -29,6 +29,7 @@ $(document).ready(function(){
 	var page42_jTreeView1_zNodes =[
 		{ name:'OMS', open: true,
 			children: [
+			{ name:'Register User', url:'page47.html', target:'_self'},
 			{ name:'My SKUS', url:'page8.html', target:'_self'},
 			{ name:'Order',
 				children: [
@@ -87,7 +88,7 @@ jQuery().ready(function(){
 		colNames:['Apk Version','Create Time'],
 		colModel:[
 			{name:'A0',index:'A0', width:93},
-			{name:'A1',index:'A1', width:64}
+			{name:'A1',index:'A1', width:93}
 		],
 		width: '100%',
 		height: '100%',

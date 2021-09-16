@@ -29,6 +29,7 @@ $(document).ready(function(){
 	var page38_jTreeView1_zNodes =[
 		{ name:'OMS', open: true,
 			children: [
+			{ name:'Register User', url:'page47.html', target:'_self'},
 			{ name:'My SKUS', url:'page8.html', target:'_self'},
 			{ name:'Order',
 				children: [
