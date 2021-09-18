@@ -215,6 +215,18 @@
   font-size: 14px;
 }
 
+#page13_jPanel1{
+  background: #0080C0;
+}
+
+#page13_jLabel1{
+  font-size: 16px;
+}
+
+#page13_jLabel2{
+  font-size: 16px;
+}
+
 #page14_jPanel1{
   background: #0080C0;
 }
@@ -255,6 +267,18 @@
 
 #page16_jLabel5{
   font-size: 14px;
+}
+
+#page17_jPanel1{
+  background: #0080C0;
+}
+
+#page17_jLabel1{
+  font-size: 16px;
+}
+
+#page17_jLabel2{
+  font-size: 16px;
 }
 
 #page18_jPanel1{
@@ -301,46 +325,5 @@
 
 #page23_jPanel1{
   background: #0080C0;
-}
-
-#page24_jPanel1{
-  background: #0080C0;
-}
-
-#page24_jLabel6{
-  font-size: 16px;
-}
-
-#page24_jLabel26{
-  font-size: 16px;
-}
-
-#page25_jPanel1{
-  background: #0080C0;
-}
-
-#page25_jLabel6{
-  font-size: 16px;
-}
-
-#page25_jLabel26{
-  font-size: 16px;
-}
-
-#page26_jPanel1{
-  background: #0080C0;
-}
-
-#page26_jLabel4{
-  font-size: 14px;
-}
-
-#page26_jPanel14{
-  background: #FFFFFF;
-  min-height: 66px;
-}
-
-#page26_jPanel16{
-  width: 90%;
 }
 
