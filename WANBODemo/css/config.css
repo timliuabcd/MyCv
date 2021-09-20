@@ -1,0 +1,6849 @@
+body{font-size:12px;}
+
+#page1_jPanel1{
+  left: 0px;
+  top: 311px;
+  height: 309px;
+  width: 100%;
+}
+
+#page1_jPanel2{
+  top: 0px;
+  height: 100%;
+  width: 662px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page1_jPanel3{
+  top: -179px;
+  height: 10px;
+  width: 100%;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #1670a5;
+}
+
+#page1_jLabel5{
+  left: 1px;
+  top: 35px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #808080;
+  line-height: 26px;
+}
+
+#page1_jHtmlForm1_form{
+  position:absolute;
+  left: 328px;
+  top: 28px;
+  width: 303px;
+  height: 174px;
+}
+
+#page1_jLabel1{
+  left: 34px;
+  top: 8px;
+  font-size: 14px;
+  color: #4D4D4D;
+  line-height: 16px;
+}
+
+#page1_jEdit1{
+  left: 127px;
+  top: 6px;
+  width:160px;
+  height:14px;
+}
+
+#page1_jLabel2{
+  left: 41px;
+  top: 41px;
+  font-size: 14px;
+  color: #666666;
+  line-height: 16px;
+}
+
+#page1_jEdit2{
+  left: 127px;
+  top: 38px;
+  width:161px;
+  height:14px;
+}
+
+#page1_jCheckBox1{
+  left: 120px;
+  top: 66px;
+}
+
+#page1_jButton1{
+  left: 117px;
+  top: 134px;
+  width:79px;
+  height:20px;
+}
+
+#page1_jButton2{
+  left: 207px;
+  top: 134px;
+  width:79px;
+  height:20px;
+}
+
+#page6_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page6_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page6_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page6_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page6_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 202px;
+}
+
+#page6_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page6_jLabel3{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page6_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page6_jLabel4{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page6_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page6_jLink4{
+  left: 145px;
+  top: 9px;
+}
+
+#page6_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page6_jExtPanel1 .PanelBarCaption{
+}
+
+#page6_jExtPanel1 .PanelContent{
+}
+
+#page6_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page6_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page8_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page8_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page8_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page8_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page8_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page8_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page8_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 202px;
+}
+
+#page8_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page8_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page8_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page8_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page8_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page8_jExtPanel2{
+  left: 4px;
+  top: 4px;
+  height:636px;
+  width:754px;
+}
+
+#page8_jExtPanel2 .PanelBarCaption{
+}
+
+#page8_jExtPanel2 .PanelContent{
+}
+
+#page8_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page8_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 755px;
+  height: 527px;
+}
+
+#page8_jButton6{
+  left: 348px;
+  top: 7px;
+  width:56px;
+  height:20px;
+}
+
+#page8_jGroupBox1{
+  left: 8px;
+  top: 40px;
+  height: 283px;
+  width: 748px;
+}
+
+#page8_jLabel4{
+  left: 16px;
+  top: 11px;
+  line-height: 14px;
+}
+
+#page8_jEdit1{
+  left: 94px;
+  top: 8px;
+  width:219px;
+  height:14px;
+}
+
+#page8_jButton3{
+  left: 3px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page8_jButton4{
+  left: 67px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page8_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page8_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page8_jButton5{
+  left: 131px;
+  top: 4px;
+  width:89px;
+  height:20px;
+}
+
+#page8_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page8_jExtPanel1 .PanelBarCaption{
+}
+
+#page8_jExtPanel1 .PanelContent{
+}
+
+#page8_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page8_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page8_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page49_jExtPanel1{
+  left: 14px;
+  top: 13px;
+  height:555px;
+  width:675px;
+}
+
+#page49_jExtPanel1 .PanelBarCaption{
+}
+
+#page49_jExtPanel1 .PanelContent{
+}
+
+#page49_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page49_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 672px;
+  height: 527px;
+}
+
+#page49_jButton1{
+  left: 541px;
+  top: 496px;
+  width:56px;
+  height:20px;
+}
+
+#page49_jButton2{
+  left: 605px;
+  top: 496px;
+  width:56px;
+  height:20px;
+}
+
+#page49_jLabel1{
+  left: 16px;
+  top: 11px;
+  line-height: 14px;
+}
+
+#page49_jEdit1{
+  left: 94px;
+  top: 8px;
+  width:219px;
+  height:14px;
+}
+
+#page49_jLabel2{
+  left: 16px;
+  top: 75px;
+  line-height: 14px;
+}
+
+#page49_jEdit2{
+  left: 94px;
+  top: 72px;
+  width:129px;
+  height:14px;
+}
+
+#page49_jLabel3{
+  left: 16px;
+  top: 43px;
+  line-height: 14px;
+}
+
+#page49_jComboBox1{
+  left: 94px;
+  top: 40px;
+  height: 20px;
+  width: 83px;
+  position:absolute;
+}
+
+#page49_jLabel4{
+  left: 16px;
+  top: 107px;
+  line-height: 14px;
+}
+
+#page49_jEdit3{
+  left: 95px;
+  top: 103px;
+  width:109px;
+  height:14px;
+}
+
+#page49_jLabel5{
+  left: 16px;
+  top: 139px;
+  line-height: 14px;
+}
+
+#page49_jEdit4{
+  left: 94px;
+  top: 136px;
+  width:109px;
+  height:14px;
+}
+
+#page49_jLabel6{
+  left: 16px;
+  top: 171px;
+  line-height: 14px;
+}
+
+#page49_jLabel7{
+  left: 362px;
+  top: 11px;
+  line-height: 14px;
+}
+
+#page49_jLabel8{
+  left: 362px;
+  top: 75px;
+  line-height: 14px;
+}
+
+#page49_jEdit5{
+  left: 440px;
+  top: 72px;
+  width:219px;
+  height:14px;
+}
+
+#page49_jLabel9{
+  left: 362px;
+  top: 43px;
+  line-height: 14px;
+}
+
+#page49_jLabel10{
+  left: 362px;
+  top: 107px;
+  line-height: 14px;
+}
+
+#page49_jEdit6{
+  left: 440px;
+  top: 104px;
+  width:109px;
+  height:14px;
+}
+
+#page49_jLabel11{
+  left: 362px;
+  top: 139px;
+  line-height: 14px;
+}
+
+#page49_jEdit7{
+  left: 440px;
+  top: 136px;
+  width:77px;
+  height:14px;
+}
+
+#page49_jLabel12{
+  left: 362px;
+  top: 171px;
+  line-height: 14px;
+}
+
+#page49_jEdit8{
+  left: 440px;
+  top: 168px;
+  width:219px;
+  height:14px;
+}
+
+#page49_jGroupBox1{
+  left: 9px;
+  top: 206px;
+  height: 283px;
+  width: 659px;
+}
+
+#page49_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 622px;
+}
+
+#page49_jButton3{
+  left: 3px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page49_jButton4{
+  left: 67px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page49_jButton5{
+  left: 131px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page49_jDateTimePicker1{
+  left: 440px;
+  top: 8px;
+  width: 98px;
+  height:  20px;
+}
+
+#page49_jDateTimePicker1 input[type=text]{
+  width: 96px;
+  height: 17px;
+}
+
+#page49_jEdit9{
+  left: 440px;
+  top: 40px;
+  width:150px;
+  height:14px;
+}
+
+#page49_jComboBox2{
+  left: 95px;
+  top: 168px;
+  height: 20px;
+  width: 225px;
+  position:absolute;
+}
+
+#page15_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page15_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page15_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page15_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page15_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page15_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page15_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page15_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page15_jExtPanel2 .PanelBarCaption{
+}
+
+#page15_jExtPanel2 .PanelContent{
+}
+
+#page15_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page15_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page15_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page15_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page15_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page15_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page15_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page15_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page15_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page15_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page15_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page15_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page15_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 202px;
+}
+
+#page15_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page15_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page15_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page15_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page15_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page15_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page15_jExtPanel1 .PanelBarCaption{
+}
+
+#page15_jExtPanel1 .PanelContent{
+}
+
+#page15_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page15_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page16_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page16_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page16_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page16_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page16_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page16_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page16_jPanel2{
+  right: 0px;
+  top: 8px;
+  height: 39px;
+  width: 202px;
+}
+
+#page16_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page16_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page16_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page16_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page16_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page16_jLabel4{
+  left: 10px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page16_jEdit1{
+  left: 89px;
+  top: 11px;
+  width:109px;
+  height:14px;
+}
+
+#page16_jLabel5{
+  left: 356px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page16_jEdit2{
+  left: 434px;
+  top: 12px;
+  width:109px;
+  height:14px;
+}
+
+#page16_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 734px;
+}
+
+#page16_jButton1{
+  left: 591px;
+  top: 10px;
+  width:56px;
+  height:20px;
+}
+
+#page16_jGroupBox1{
+  left: 0px;
+  top: 38px;
+  height: 283px;
+  width: 758px;
+}
+
+#page16_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page16_jExtPanel1 .PanelBarCaption{
+}
+
+#page16_jExtPanel1 .PanelContent{
+}
+
+#page16_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page16_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page16_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page19_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page19_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page19_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page19_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page19_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page19_jExtPanel1 .PanelBarCaption{
+}
+
+#page19_jExtPanel1 .PanelContent{
+}
+
+#page19_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page19_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page19_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page19_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page19_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page19_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page19_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page19_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page19_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page19_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page19_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page19_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page19_jExtPanel2 .PanelBarCaption{
+}
+
+#page19_jExtPanel2 .PanelContent{
+}
+
+#page19_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page19_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page19_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page19_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page19_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page19_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page19_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page19_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page19_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page19_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page19_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page19_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page19_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page19_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page20_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page20_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page20_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page20_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page20_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page20_jExtPanel1 .PanelBarCaption{
+}
+
+#page20_jExtPanel1 .PanelContent{
+}
+
+#page20_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page20_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page20_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page20_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page20_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page20_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page20_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page20_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page20_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page20_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page20_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page20_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page20_jExtPanel2 .PanelBarCaption{
+}
+
+#page20_jExtPanel2 .PanelContent{
+}
+
+#page20_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page20_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page20_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page20_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page20_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page20_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page20_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page20_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page20_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page20_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page20_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page20_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page20_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page20_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page21_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page21_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page21_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page21_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page21_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page21_jExtPanel1 .PanelBarCaption{
+}
+
+#page21_jExtPanel1 .PanelContent{
+}
+
+#page21_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page21_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page21_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page21_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page21_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page21_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page21_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page21_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page21_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page21_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page21_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page21_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page21_jExtPanel2 .PanelBarCaption{
+}
+
+#page21_jExtPanel2 .PanelContent{
+}
+
+#page21_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page21_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page21_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page21_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page21_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page21_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page21_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page21_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page21_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page21_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page21_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page21_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page21_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page21_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page22_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page22_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page22_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page22_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page22_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page22_jExtPanel1 .PanelBarCaption{
+}
+
+#page22_jExtPanel1 .PanelContent{
+}
+
+#page22_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page22_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page22_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page22_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page22_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page22_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page22_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page22_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page22_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page22_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page22_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page22_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page22_jExtPanel2 .PanelBarCaption{
+}
+
+#page22_jExtPanel2 .PanelContent{
+}
+
+#page22_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page22_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page22_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page22_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page22_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page22_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page22_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page22_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page22_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page22_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page22_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page22_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page22_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page22_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page23_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page23_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page23_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page23_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page23_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page23_jExtPanel1 .PanelBarCaption{
+}
+
+#page23_jExtPanel1 .PanelContent{
+}
+
+#page23_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page23_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page23_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page23_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page23_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page23_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page23_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page23_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page23_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page23_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page23_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page23_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page23_jExtPanel2 .PanelBarCaption{
+}
+
+#page23_jExtPanel2 .PanelContent{
+}
+
+#page23_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page23_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page23_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page23_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page23_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page23_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page23_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page23_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page23_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page23_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page23_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page23_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page23_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page23_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page24_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page24_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page24_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page24_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page24_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page24_jExtPanel1 .PanelBarCaption{
+}
+
+#page24_jExtPanel1 .PanelContent{
+}
+
+#page24_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page24_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page24_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page24_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page24_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page24_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page24_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page24_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page24_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page24_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page24_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page24_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page24_jExtPanel2 .PanelBarCaption{
+}
+
+#page24_jExtPanel2 .PanelContent{
+}
+
+#page24_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page24_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page24_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page24_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page24_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page24_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page24_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page24_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page24_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page24_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page24_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page24_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page24_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page24_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page25_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page25_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page25_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page25_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page25_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page25_jExtPanel1 .PanelBarCaption{
+}
+
+#page25_jExtPanel1 .PanelContent{
+}
+
+#page25_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page25_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page25_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page25_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page25_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page25_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page25_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page25_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page25_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page25_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page25_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page25_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page25_jExtPanel2 .PanelBarCaption{
+}
+
+#page25_jExtPanel2 .PanelContent{
+}
+
+#page25_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page25_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page25_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page25_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page25_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page25_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page25_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page25_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page25_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page25_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page25_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page25_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page25_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page25_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page26_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page26_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page26_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page26_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page26_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page26_jExtPanel1 .PanelBarCaption{
+}
+
+#page26_jExtPanel1 .PanelContent{
+}
+
+#page26_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page26_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page26_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page26_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page26_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page26_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page26_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page26_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page26_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page26_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page26_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page26_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page26_jExtPanel2 .PanelBarCaption{
+}
+
+#page26_jExtPanel2 .PanelContent{
+}
+
+#page26_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page26_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page26_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page26_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page26_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page26_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page26_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page26_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page26_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page26_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page26_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page26_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page26_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page26_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page27_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page27_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page27_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page27_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page27_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page27_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page27_jHtmlForm1_form{
+  position:absolute;
+  left: 4px;
+  top: 4px;
+  width: 755px;
+  height: 527px;
+}
+
+#page27_jButton1{
+  left: 625px;
+  top: 7px;
+  width:56px;
+  height:20px;
+}
+
+#page27_jLabel8{
+  left: 33px;
+  top: 30px;
+  line-height: 14px;
+}
+
+#page27_jComboBox1{
+  left: 107px;
+  top: 29px;
+  height: 20px;
+  width: 83px;
+  position:absolute;
+}
+
+#page27_jLabel6{
+  left: 282px;
+  top: 12px;
+  line-height: 14px;
+}
+
+#page27_jEdit1{
+  left: 360px;
+  top: 9px;
+  width:219px;
+  height:14px;
+}
+
+#page27_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page27_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page27_jButton2{
+  left: 611px;
+  top: 45px;
+  width:89px;
+  height:20px;
+}
+
+#page27_jGroupBox1{
+  left: 3px;
+  top: 73px;
+  height: 283px;
+  width: 748px;
+}
+
+#page27_jLabel5{
+  left: 359px;
+  top: 225px;
+  line-height: 14px;
+}
+
+#page27_jLabel9{
+  left: 282px;
+  top: 49px;
+  line-height: 14px;
+}
+
+#page27_jEdit2{
+  left: 360px;
+  top: 46px;
+  width:219px;
+  height:14px;
+}
+
+#page27_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page27_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page27_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page27_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page27_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page27_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page27_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page27_jExtPanel1 .PanelBarCaption{
+}
+
+#page27_jExtPanel1 .PanelContent{
+}
+
+#page27_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page27_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page27_jButton3{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page27_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page28_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page28_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page28_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page28_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page28_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page28_jExtPanel1 .PanelBarCaption{
+}
+
+#page28_jExtPanel1 .PanelContent{
+}
+
+#page28_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page28_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page28_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page28_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page28_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page28_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page28_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page28_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page28_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page28_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page28_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page28_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page28_jExtPanel2 .PanelBarCaption{
+}
+
+#page28_jExtPanel2 .PanelContent{
+}
+
+#page28_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page28_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page28_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page28_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page28_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page28_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page28_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page28_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page28_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page28_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page28_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page28_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page28_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page28_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page29_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page29_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page29_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page29_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page29_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page29_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page29_jHtmlForm1_form{
+  position:absolute;
+  left: 4px;
+  top: 4px;
+  width: 755px;
+  height: 527px;
+}
+
+#page29_jLabel7{
+  left: 18px;
+  top: 35px;
+  line-height: 14px;
+}
+
+#page29_jEdit1{
+  left: 96px;
+  top: 32px;
+  width:219px;
+  height:14px;
+}
+
+#page29_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page29_jButton1{
+  left: 347px;
+  top: 30px;
+  width:56px;
+  height:20px;
+}
+
+#page29_jGroupBox1{
+  left: 3px;
+  top: 73px;
+  height: 283px;
+  width: 748px;
+}
+
+#page29_jLabel8{
+  left: 359px;
+  top: 225px;
+  line-height: 14px;
+}
+
+#page29_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page29_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page29_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page29_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page29_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page29_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page29_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page29_jExtPanel1 .PanelBarCaption{
+}
+
+#page29_jExtPanel1 .PanelContent{
+}
+
+#page29_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page29_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page29_jButton2{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page29_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page30_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page30_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page30_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page30_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page30_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page30_jExtPanel1 .PanelBarCaption{
+}
+
+#page30_jExtPanel1 .PanelContent{
+}
+
+#page30_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page30_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page30_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page30_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page30_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page30_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page30_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page30_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page30_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page30_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page30_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page30_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page30_jExtPanel2 .PanelBarCaption{
+}
+
+#page30_jExtPanel2 .PanelContent{
+}
+
+#page30_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page30_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page30_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page30_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page30_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page30_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page30_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page30_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page30_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page30_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page30_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page30_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page30_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page30_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page31_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page31_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page31_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page31_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page31_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page31_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page31_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page31_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page31_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page31_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page31_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page31_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page31_jHtmlForm1_form{
+  position:absolute;
+  left: 4px;
+  top: 4px;
+  width: 755px;
+  height: 527px;
+}
+
+#page31_jLabel4{
+  left: 18px;
+  top: 35px;
+  line-height: 14px;
+}
+
+#page31_jEdit1{
+  left: 96px;
+  top: 32px;
+  width:219px;
+  height:14px;
+}
+
+#page31_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page31_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page31_jButton1{
+  left: 347px;
+  top: 30px;
+  width:56px;
+  height:20px;
+}
+
+#page31_jGroupBox1{
+  left: 3px;
+  top: 73px;
+  height: 283px;
+  width: 748px;
+}
+
+#page31_jLabel5{
+  left: 359px;
+  top: 225px;
+  line-height: 14px;
+}
+
+#page31_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page31_jExtPanel1 .PanelBarCaption{
+}
+
+#page31_jExtPanel1 .PanelContent{
+}
+
+#page31_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page31_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page31_jButton2{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page31_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page32_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page32_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page32_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page32_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page32_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page32_jExtPanel1 .PanelBarCaption{
+}
+
+#page32_jExtPanel1 .PanelContent{
+}
+
+#page32_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page32_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page32_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page32_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page32_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page32_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page32_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page32_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page32_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page32_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page32_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page32_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page32_jExtPanel2 .PanelBarCaption{
+}
+
+#page32_jExtPanel2 .PanelContent{
+}
+
+#page32_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page32_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page32_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page32_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page32_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page32_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page32_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page32_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page32_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page32_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page32_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page32_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page32_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page32_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page33_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page33_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page33_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page33_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page33_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page33_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page33_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page33_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page33_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page33_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page33_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page33_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page33_jHtmlForm1_form{
+  position:absolute;
+  left: 4px;
+  top: 4px;
+  width: 755px;
+  height: 527px;
+}
+
+#page33_jLabel4{
+  left: 18px;
+  top: 35px;
+  line-height: 14px;
+}
+
+#page33_jEdit1{
+  left: 96px;
+  top: 32px;
+  width:219px;
+  height:14px;
+}
+
+#page33_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page33_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page33_jButton1{
+  left: 347px;
+  top: 30px;
+  width:56px;
+  height:20px;
+}
+
+#page33_jGroupBox1{
+  left: 3px;
+  top: 73px;
+  height: 283px;
+  width: 748px;
+}
+
+#page33_jLabel5{
+  left: 359px;
+  top: 225px;
+  line-height: 14px;
+}
+
+#page33_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page33_jExtPanel1 .PanelBarCaption{
+}
+
+#page33_jExtPanel1 .PanelContent{
+}
+
+#page33_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page33_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page33_jButton2{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page33_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page34_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page34_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page34_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page34_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page34_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page34_jExtPanel1 .PanelBarCaption{
+}
+
+#page34_jExtPanel1 .PanelContent{
+}
+
+#page34_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page34_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page34_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page34_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page34_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page34_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page34_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page34_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page34_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page34_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page34_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page34_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page34_jExtPanel2 .PanelBarCaption{
+}
+
+#page34_jExtPanel2 .PanelContent{
+}
+
+#page34_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page34_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page34_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page34_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page34_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page34_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page34_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page34_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page34_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page34_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page34_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page34_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page34_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page34_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page35_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page35_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page35_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page35_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page35_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page35_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page35_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page35_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page35_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page35_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page35_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page35_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page35_jHtmlForm1_form{
+  position:absolute;
+  left: 4px;
+  top: 4px;
+  width: 755px;
+  height: 527px;
+}
+
+#page35_jLabel4{
+  left: 18px;
+  top: 35px;
+  line-height: 14px;
+}
+
+#page35_jEdit1{
+  left: 96px;
+  top: 32px;
+  width:219px;
+  height:14px;
+}
+
+#page35_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page35_jButton1{
+  left: 347px;
+  top: 30px;
+  width:56px;
+  height:20px;
+}
+
+#page35_jGroupBox1{
+  left: 3px;
+  top: 73px;
+  height: 219px;
+  width: 754px;
+}
+
+#page35_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page35_jExtPanel1 .PanelBarCaption{
+}
+
+#page35_jExtPanel1 .PanelContent{
+}
+
+#page35_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page35_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page35_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page36_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page36_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page36_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page36_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page36_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page36_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page36_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page36_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page36_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page36_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page36_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page36_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page36_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page36_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page36_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page36_jExtPanel2 .PanelBarCaption{
+}
+
+#page36_jExtPanel2 .PanelContent{
+}
+
+#page36_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page36_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page36_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page36_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page36_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page36_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page36_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page36_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page36_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page36_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page36_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page36_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page36_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page36_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page36_jExtPanel1 .PanelBarCaption{
+}
+
+#page36_jExtPanel1 .PanelContent{
+}
+
+#page36_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page36_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page37_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page37_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page37_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page37_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page37_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page37_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page37_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page37_jExtPanel2 .PanelBarCaption{
+}
+
+#page37_jExtPanel2 .PanelContent{
+}
+
+#page37_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page37_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page37_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page37_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page37_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page37_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page37_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page37_jButton1{
+  left: 4px;
+  top: 3px;
+  width:67px;
+  height: 22px;
+}
+
+#page37_jButton3{
+  left: 106px;
+  top: 3px;
+  width:67px;
+  height: 22px;
+}
+
+#page37_jButton2{
+  left: 208px;
+  top: 3px;
+  width:105px;
+  height: 22px;
+}
+
+#page37_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page37_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page37_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page37_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page37_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page37_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page37_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page37_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page37_jExtPanel1 .PanelBarCaption{
+}
+
+#page37_jExtPanel1 .PanelContent{
+}
+
+#page37_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page37_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page37_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page38_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page38_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page38_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page38_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page38_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page38_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page38_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page38_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page38_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page38_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page38_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page38_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page38_jExtPanel2{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page38_jExtPanel2 .PanelBarCaption{
+}
+
+#page38_jExtPanel2 .PanelContent{
+}
+
+#page38_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page38_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page38_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page38_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page38_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page38_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page38_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page38_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page38_jButton3{
+  left: 72px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page38_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page38_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page38_jExtPanel1 .PanelBarCaption{
+}
+
+#page38_jExtPanel1 .PanelContent{
+}
+
+#page38_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page38_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page38_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page39_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page39_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page39_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page39_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page39_jExtPanel1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page39_jExtPanel1 .PanelBarCaption{
+}
+
+#page39_jExtPanel1 .PanelContent{
+}
+
+#page39_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page39_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page39_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page39_jPanel2{
+  right: 0px;
+  top: 4px;
+  height: 39px;
+  width: 246px;
+}
+
+#page39_jLink1{
+  left: 38px;
+  top: 9px;
+}
+
+#page39_jLabel3{
+  left: 100px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page39_jLink2{
+  left: 116px;
+  top: 9px;
+}
+
+#page39_jLink4{
+  left: 200px;
+  top: 9px;
+}
+
+#page39_jLabel2{
+  left: 177px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page39_jLabel4{
+  left: 190px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page39_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page39_jExtPanel2{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+#page39_jExtPanel2 .PanelBarCaption{
+}
+
+#page39_jExtPanel2 .PanelContent{
+}
+
+#page39_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  right: 0px;
+  bottom: 0px;
+  margin: 2px 5px 0 2px;
+}
+
+#page39_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page39_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page39_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page39_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page39_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page39_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page39_jButton1{
+  left: 4px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page39_jButton2{
+  left: 70px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page39_jButton3{
+  left: 136px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page39_jButton4{
+  left: 222px;
+  top: 3px;
+  width:56px;
+  height: 22px;
+}
+
+#page39_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page39_jLabel5{
+  left: 4px;
+  top: 7px;
+  line-height: 14px;
+}
+
+#page39_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page40_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page40_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page40_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page40_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page40_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page40_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page40_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page40_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page40_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page40_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page40_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page40_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page40_jExtPanel2{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page40_jExtPanel2 .PanelBarCaption{
+}
+
+#page40_jExtPanel2 .PanelContent{
+}
+
+#page40_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page40_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page40_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page40_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page40_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page40_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page40_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page40_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page40_jButton1{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height: 22px;
+}
+
+#page40_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page40_jExtPanel1 .PanelBarCaption{
+}
+
+#page40_jExtPanel1 .PanelContent{
+}
+
+#page40_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page40_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page40_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page41_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page41_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page41_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page41_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page41_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page41_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page41_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page41_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page41_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page41_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page41_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page41_jExtPanel2{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page41_jExtPanel2 .PanelBarCaption{
+}
+
+#page41_jExtPanel2 .PanelContent{
+}
+
+#page41_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page41_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page41_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page41_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page41_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page41_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page41_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page41_jButton2{
+  left: 5px;
+  top: 5px;
+  width:56px;
+  height: 22px;
+}
+
+#page41_jButton1{
+  left: 78px;
+  top: 6px;
+  width:56px;
+  height: 22px;
+}
+
+#page41_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page41_jPanel3{
+  left: 0px;
+  top: 95px;
+  height: 31px;
+  right: 0px;
+}
+
+#page41_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page41_jExtPanel1 .PanelBarCaption{
+}
+
+#page41_jExtPanel1 .PanelContent{
+}
+
+#page41_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page41_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page41_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page42_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page42_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page42_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page42_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page42_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page42_jLabel1{
+  left: 15px;
+  top: 10px;
+  font-size: 36px;
+  font-family: "隶书";
+  color: #FFFFFF;
+  line-height: 38px;
+}
+
+#page42_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page42_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page42_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page42_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page42_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page42_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page42_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page42_jExtPanel2{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page42_jExtPanel2 .PanelBarCaption{
+}
+
+#page42_jExtPanel2 .PanelContent{
+}
+
+#page42_jExtPanel2 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page42_jContainer2{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page42_jRegion4{
+  border:none;
+  overflow:hidden;
+}
+
+#page42_jRegion5{
+  border:none;
+  overflow:hidden;
+}
+
+#page42_jDataGrid1{
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#page42_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page42_jToolbar1{
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  border-left:none;
+  border-right:none;
+}
+
+#page42_jSeparator1{
+  left: 207px;
+  top: 5px;
+  height: 18px;
+  width: 8px;
+}
+
+#page42_jButton1{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height: 22px;
+}
+
+#page42_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page42_jExtPanel1 .PanelBarCaption{
+}
+
+#page42_jExtPanel1 .PanelContent{
+}
+
+#page42_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page42_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page46_jDialog1{
+}
+
+#page46_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 386px;
+  height: 152px;
+}
+
+#page46_jLabel1{
+  left: 42px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page46_jEdit1{
+  left: 145px;
+  top: 14px;
+  width:217px;
+  height:14px;
+}
+
+#page46_jLabel2{
+  left: 44px;
+  top: 52px;
+  line-height: 14px;
+}
+
+#page46_jEdit2{
+  left: 145px;
+  top: 50px;
+  width:217px;
+  height:14px;
+}
+
+#page46_jLabel3{
+  left: 20px;
+  top: 89px;
+  line-height: 14px;
+}
+
+#page46_jEdit3{
+  left: 145px;
+  top: 87px;
+  width:217px;
+  height:14px;
+}
+
+#page46_jButton1{
+  left: 167px;
+  top: 127px;
+  width:90px;
+  height:20px;
+}
+
+#page46_jButton2{
+  left: 276px;
+  top: 127px;
+  width:90px;
+  height:20px;
+}
+
+#page48_jDialog1{
+}
+
+#page48_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page48_jLabel1{
+  left: 45px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page48_jEdit1{
+  left: 122px;
+  top: 14px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel4{
+  left: 422px;
+  top: 17px;
+  line-height: 14px;
+}
+
+#page48_jEdit4{
+  left: 506px;
+  top: 16px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel2{
+  left: 45px;
+  top: 52px;
+  line-height: 14px;
+}
+
+#page48_jEdit2{
+  left: 122px;
+  top: 50px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel5{
+  left: 422px;
+  top: 55px;
+  line-height: 14px;
+}
+
+#page48_jEdit5{
+  left: 506px;
+  top: 51px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel3{
+  left: 45px;
+  top: 89px;
+  line-height: 14px;
+}
+
+#page48_jEdit3{
+  left: 122px;
+  top: 87px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel6{
+  left: 422px;
+  top: 93px;
+  line-height: 14px;
+}
+
+#page48_jEdit6{
+  left: 506px;
+  top: 87px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel12{
+  left: 45px;
+  top: 127px;
+  line-height: 14px;
+}
+
+#page48_jEdit12{
+  left: 122px;
+  top: 125px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel7{
+  left: 422px;
+  top: 131px;
+  line-height: 14px;
+}
+
+#page48_jEdit7{
+  left: 506px;
+  top: 123px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel8{
+  left: 422px;
+  top: 169px;
+  line-height: 14px;
+}
+
+#page48_jEdit8{
+  left: 506px;
+  top: 162px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jEdit9{
+  left: 506px;
+  top: 197px;
+  width:217px;
+  height:14px;
+}
+
+#page48_jLabel9{
+  left: 422px;
+  top: 207px;
+  line-height: 14px;
+}
+
+#page48_jButton1{
+  left: 634px;
+  top: 242px;
+  width:90px;
+  height:20px;
+}
+
+#page50_jDialog1{
+}
+
+#page50_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page50_jLabel1{
+  left: 45px;
+  top: 26px;
+  line-height: 14px;
+}
+
+#page50_jEdit1{
+  left: 140px;
+  top: 26px;
+  width:217px;
+  height:14px;
+}
+
+#page50_jLabel2{
+  left: 47px;
+  top: 63px;
+  line-height: 14px;
+}
+
+#page50_jEdit2{
+  left: 140px;
+  top: 62px;
+  width:217px;
+  height:14px;
+}
+
+#page50_jLabel3{
+  left: 47px;
+  top: 100px;
+  line-height: 14px;
+}
+
+#page50_jEdit3{
+  left: 140px;
+  top: 99px;
+  width:217px;
+  height:14px;
+}
+
+#page50_jButton1{
+  left: 549px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page50_jLabel4{
+  left: 414px;
+  top: 25px;
+  line-height: 14px;
+}
+
+#page50_jEdit4{
+  left: 505px;
+  top: 23px;
+  width:217px;
+  height:14px;
+}
+
+#page50_jLabel5{
+  left: 416px;
+  top: 65px;
+  line-height: 14px;
+}
+
+#page50_jEdit5{
+  left: 507px;
+  top: 63px;
+  width:217px;
+  height:14px;
+}
+
+#page50_jLabel6{
+  left: 417px;
+  top: 102px;
+  line-height: 14px;
+}
+
+#page50_jEdit6{
+  left: 508px;
+  top: 100px;
+  width:217px;
+  height:14px;
+}
+
+#page50_jLabel7{
+  left: 417px;
+  top: 139px;
+  line-height: 14px;
+}
+
+#page50_jEdit7{
+  left: 508px;
+  top: 137px;
+  width:217px;
+  height:14px;
+}
+
+#page50_jButton2{
+  left: 658px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page50_jLabel8{
+  left: 49px;
+  top: 137px;
+  line-height: 14px;
+}
+
+#page50_jEdit8{
+  left: 142px;
+  top: 136px;
+  width:217px;
+  height:14px;
+}
+
+#page51_jDialog1{
+}
+
+#page51_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page51_jLabel1{
+  left: 45px;
+  top: 26px;
+  line-height: 14px;
+}
+
+#page51_jComboBox1{
+  left: 140px;
+  top: 24px;
+  height: 20px;
+  width: 225px;
+  position:absolute;
+}
+
+#page51_jLabel2{
+  left: 47px;
+  top: 63px;
+  line-height: 14px;
+}
+
+#page51_jEdit2{
+  left: 140px;
+  top: 62px;
+  width:217px;
+  height:14px;
+}
+
+#page51_jLabel3{
+  left: 47px;
+  top: 100px;
+  line-height: 14px;
+}
+
+#page51_jEdit3{
+  left: 140px;
+  top: 99px;
+  width:217px;
+  height:14px;
+}
+
+#page51_jButton1{
+  left: 549px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page51_jLabel4{
+  left: 414px;
+  top: 25px;
+  line-height: 14px;
+}
+
+#page51_jEdit4{
+  left: 505px;
+  top: 23px;
+  width:217px;
+  height:14px;
+}
+
+#page51_jLabel5{
+  left: 416px;
+  top: 65px;
+  line-height: 14px;
+}
+
+#page51_jEdit5{
+  left: 507px;
+  top: 63px;
+  width:217px;
+  height:14px;
+}
+
+#page51_jButton2{
+  left: 658px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page52_jDialog1{
+}
+
+#page52_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page52_jButton1{
+  left: 549px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page52_jButton2{
+  left: 658px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page52_jLabel1{
+  left: 41px;
+  top: 28px;
+  line-height: 14px;
+}
+
+#page52_jEdit1{
+  left: 134px;
+  top: 27px;
+  width:217px;
+  height:14px;
+}
+
+#page52_jLabel2{
+  left: 41px;
+  top: 65px;
+  line-height: 14px;
+}
+
+#page52_jEdit2{
+  left: 134px;
+  top: 64px;
+  width:217px;
+  height:14px;
+}
+
+#page52_jLabel3{
+  left: 410px;
+  top: 30px;
+  line-height: 14px;
+}
+
+#page52_jEdit3{
+  left: 501px;
+  top: 28px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jDialog1{
+}
+
+#page54_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 1011px;
+  height: 422px;
+}
+
+#page54_jLabel1{
+  left: 45px;
+  top: 26px;
+  line-height: 14px;
+}
+
+#page54_jEdit1{
+  left: 140px;
+  top: 26px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jEdit9{
+  left: 728px;
+  top: 64px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jEdit10{
+  left: 728px;
+  top: 102px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel2{
+  left: 45px;
+  top: 63px;
+  line-height: 14px;
+}
+
+#page54_jEdit2{
+  left: 140px;
+  top: 62px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jEdit11{
+  left: 728px;
+  top: 138px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel4{
+  left: 115px;
+  top: 273px;
+  line-height: 14px;
+}
+
+#page54_jLabel5{
+  left: 30px;
+  top: 305px;
+  line-height: 14px;
+}
+
+#page54_jLabel6{
+  left: 265px;
+  top: 305px;
+  line-height: 14px;
+}
+
+#page54_jLabel3{
+  left: 45px;
+  top: 100px;
+  line-height: 14px;
+}
+
+#page54_jEdit3{
+  left: 140px;
+  top: 99px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel7{
+  left: 33px;
+  top: 342px;
+  line-height: 14px;
+}
+
+#page54_jSlider1{
+  left: 100px;
+  top: 342px;
+  width: 140px;
+  height:  20px;
+  position:absolute;
+}
+
+#page54_jEdit8{
+  left: 140px;
+  top: 136px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel9{
+  left: 744px;
+  top: 383px;
+  line-height: 14px;
+}
+
+#page54_jButton1{
+  left: 1028px;
+  top: 371px;
+  width:90px;
+  height:20px;
+}
+
+#page54_jButton2{
+  left: 1137px;
+  top: 371px;
+  width:90px;
+  height:20px;
+}
+
+#page54_jLabel8{
+  left: 45px;
+  top: 137px;
+  line-height: 14px;
+}
+
+#page54_jLabel10{
+  left: 45px;
+  top: 169px;
+  line-height: 14px;
+}
+
+#page54_jEdit5{
+  left: 140px;
+  top: 167px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel11{
+  left: 45px;
+  top: 206px;
+  line-height: 14px;
+}
+
+#page54_jEdit6{
+  left: 140px;
+  top: 204px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel12{
+  left: 637px;
+  top: 26px;
+  line-height: 14px;
+}
+
+#page54_jEdit7{
+  left: 728px;
+  top: 24px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel13{
+  left: 637px;
+  top: 66px;
+  line-height: 14px;
+}
+
+#page54_jLabel14{
+  left: 637px;
+  top: 103px;
+  line-height: 14px;
+}
+
+#page54_jLabel15{
+  left: 637px;
+  top: 140px;
+  line-height: 14px;
+}
+
+#page54_jLabel16{
+  left: 637px;
+  top: 175px;
+  line-height: 14px;
+}
+
+#page54_jEdit12{
+  left: 728px;
+  top: 172px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jLabel17{
+  left: 637px;
+  top: 208px;
+  line-height: 14px;
+}
+
+#page54_jEdit13{
+  left: 728px;
+  top: 205px;
+  width:217px;
+  height:14px;
+}
+
+#page54_jButton3{
+  left: 741px;
+  top: 342px;
+  width:90px;
+  height:20px;
+}
+
+#page54_jButton4{
+  left: 850px;
+  top: 342px;
+  width:90px;
+  height:20px;
+}
+
+#page55_jDialog1{
+}
+
+#page55_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page55_jLabel1{
+  left: 45px;
+  top: 26px;
+  line-height: 14px;
+}
+
+#page55_jEdit1{
+  left: 140px;
+  top: 26px;
+  width:217px;
+  height:14px;
+}
+
+#page55_jLabel4{
+  left: 494px;
+  top: 37px;
+  line-height: 14px;
+}
+
+#page55_jLabel2{
+  left: 47px;
+  top: 63px;
+  line-height: 14px;
+}
+
+#page55_jEdit2{
+  left: 140px;
+  top: 62px;
+  width:217px;
+  height:14px;
+}
+
+#page55_jLabel5{
+  left: 415px;
+  top: 68px;
+  line-height: 14px;
+}
+
+#page55_jLabel6{
+  left: 650px;
+  top: 68px;
+  line-height: 14px;
+}
+
+#page55_jLabel7{
+  left: 401px;
+  top: 105px;
+  line-height: 14px;
+}
+
+#page55_jSlider1{
+  left: 488px;
+  top: 102px;
+  width: 140px;
+  height:  20px;
+  position:absolute;
+}
+
+#page55_jButton1{
+  left: 549px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page55_jButton2{
+  left: 658px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page47_jDialog1{
+}
+
+#page47_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page47_jLabel1{
+  left: 45px;
+  top: 15px;
+  line-height: 14px;
+}
+
+#page47_jEdit1{
+  left: 122px;
+  top: 14px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel2{
+  left: 47px;
+  top: 52px;
+  line-height: 14px;
+}
+
+#page47_jEdit2{
+  left: 122px;
+  top: 50px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel3{
+  left: 47px;
+  top: 89px;
+  line-height: 14px;
+}
+
+#page47_jEdit3{
+  left: 122px;
+  top: 87px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jButton1{
+  left: 549px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page47_jLabel4{
+  left: 414px;
+  top: 25px;
+  line-height: 14px;
+}
+
+#page47_jEdit4{
+  left: 505px;
+  top: 23px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel5{
+  left: 416px;
+  top: 65px;
+  line-height: 14px;
+}
+
+#page47_jEdit5{
+  left: 507px;
+  top: 63px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel6{
+  left: 417px;
+  top: 102px;
+  line-height: 14px;
+}
+
+#page47_jEdit6{
+  left: 508px;
+  top: 100px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel7{
+  left: 417px;
+  top: 139px;
+  line-height: 14px;
+}
+
+#page47_jEdit7{
+  left: 508px;
+  top: 137px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel8{
+  left: 420px;
+  top: 174px;
+  line-height: 14px;
+}
+
+#page47_jEdit8{
+  left: 511px;
+  top: 172px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel9{
+  left: 420px;
+  top: 207px;
+  line-height: 14px;
+}
+
+#page47_jEdit9{
+  left: 511px;
+  top: 205px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel10{
+  left: 47px;
+  top: 125px;
+  line-height: 14px;
+}
+
+#page47_jEdit10{
+  left: 122px;
+  top: 123px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jLabel11{
+  left: 46px;
+  top: 161px;
+  line-height: 14px;
+}
+
+#page47_jEdit11{
+  left: 121px;
+  top: 159px;
+  width:217px;
+  height:14px;
+}
+
+#page47_jButton2{
+  left: 658px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page56_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page56_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page56_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page56_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page56_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page56_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page56_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page56_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page56_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page56_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page56_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page56_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page56_jHtmlForm1_form{
+  position:absolute;
+  left: 4px;
+  top: 4px;
+  width: 755px;
+  height: 527px;
+}
+
+#page56_jLabel5{
+  left: 15px;
+  top: 34px;
+  line-height: 14px;
+}
+
+#page56_jEdit2{
+  left: 93px;
+  top: 31px;
+  width:219px;
+  height:14px;
+}
+
+#page56_jDataGrid2{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page56_jDataGrid2 .ui-jqgrid{
+  border: none;
+}
+
+#page56_jButton2{
+  left: 344px;
+  top: 29px;
+  width:56px;
+  height:20px;
+}
+
+#page56_jGroupBox2{
+  left: 0px;
+  top: 72px;
+  height: 214px;
+  width: 754px;
+}
+
+#page56_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page56_jExtPanel1 .PanelBarCaption{
+}
+
+#page56_jExtPanel1 .PanelContent{
+}
+
+#page56_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page56_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page56_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
