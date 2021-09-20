@@ -17,9 +17,8 @@ $(document).ready(function(){
 	var page8_jTreeView1_zNodes =[
 		{ name:'OMS', open: true,
 			children: [
-			{ name:'Register User', url:'page47.html', target:'_self'},
 			{ name:'My SKUS', url:'page8.html', target:'_self'},
-			{ name:'Order',
+			{ name:'Order', open: true,
 				children: [
 					{ name:'Create GR Orders', url:'page51.html', target:'_self'},
 					{ name:'Create GI Orders', url:'page52.html', target:'_self'}
@@ -28,39 +27,39 @@ $(document).ready(function(){
 			]},
 		{ name:'WMS', open: true,
 			children: [
-			{ name:'Goods Receipt',
+			{ name:'Goods Receipt', open: true,
 				children: [
 					{ name:'Search', url:'page27.html', target:'_self'}
 				]},
-			{ name:'Put Away',
+			{ name:'Put Away', open: true,
 				children: [
 					{ name:'Search', url:'page29.html', target:'_self'}
 				]},
-			{ name:'Pick',
+			{ name:'Pick', open: true,
 				children: [
 					{ name:'Search', url:'page31.html', target:'_self'}
 				]},
-			{ name:'Deliery',
+			{ name:'Deliery', open: true,
 				children: [
 					{ name:'Search', url:'page33.html', target:'_self'}
 				]},
-			{ name:'Report',
+			{ name:'Report', open: true,
 				children: [
-					{ name:'Report', url:'page35.html', target:'_self'}
+					{ name:'Sku Aging Report', url:'page35.html', target:'_self'},
+					{ name:'Balance Report', url:'page56.html', target:'_self'}
 				]},
-			{ name:'System',
+			{ name:'System', open: true,
 				children: [
-					{ name:'User and Role',
+					{ name:'User and Role', open: true,
 						children: [
 								{ name:'User', url:'page37.html', target:'_self'},
 								{ name:'Role', url:'page38.html', target:'_self'}
 						]},
-					{ name:'Org Structrue',
+					{ name:'Org Structrue', open: true,
 						children: [
 								{ name:'Zone', url:'page40.html', target:'_self'},
 								{ name:'Bin', url:'page41.html', target:'_self'}
-						]},
-					{ name:'PDA Manager', url:'page42.html', target:'_self'}
+						]}
 				]}
 			]}
 	]
@@ -76,17 +75,17 @@ jQuery().ready(function(){
 		viewrecords: true,
 		colNames:['SKU','Brand','Product Name','UoM','FBA#'],
 		colModel:[
-			{name:'A0',index:'A0', width:64},
-			{name:'A1',index:'A1', width:86},
-			{name:'A2',index:'A2', width:85},
-			{name:'A3',index:'A3', width:92},
-			{name:'A4',index:'A4', width:64}
+			{name:'A0',index:'A0', width:143},
+			{name:'A1',index:'A1', width:161},
+			{name:'A2',index:'A2', width:159},
+			{name:'A3',index:'A3', width:124},
+			{name:'A4',index:'A4', width:128}
 		],
 		width: 739,
 		height: 184
 	}).navGrid('#page8_jDataGrid1_pager',{edit:false,add:false,del:false,refresh:false,search:false});
 	$('#page8_jDataGrid1_table').closest('.ui-jqgrid-bdiv').css({'overflow-y': 'auto'});
-	$('#page8_jDataGrid1_table').jqGrid('addRowData',1,{A0:'Sku00001',A1:'Brand',A2:'Product Name',A3:'PCS',A4:'FBA#'});
+	$('#page8_jDataGrid1_table').jqGrid('addRowData',1,{A0:'',A1:'',A2:'',A3:'',A4:''});
 	$('#page8_jDataGrid1_table').jqGrid('addRowData',2,{A0:'',A1:'',A2:'',A3:'',A4:''});
 	$('#page8_jDataGrid1_table').jqGrid('addRowData',3,{A0:'',A1:'',A2:'',A3:'',A4:''});
 	$('#page8_jDataGrid1_table').jqGrid('addRowData',4,{A0:'',A1:'',A2:'',A3:'',A4:''});

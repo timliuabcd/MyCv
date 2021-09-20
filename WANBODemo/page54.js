@@ -10,8 +10,8 @@ $(document).ready(function(){
 $(function(){
 	$("#page54_jDialog1").dialog({
 		autoOpen:true
-		,height:313
-		,width:781
+		,height:459
+		,width:1014
 		,modal:true
 	});
 });

@@ -29,9 +29,8 @@ $(document).ready(function(){
 	var page37_jTreeView1_zNodes =[
 		{ name:'OMS', open: true,
 			children: [
-			{ name:'Register User', url:'page47.html', target:'_self'},
 			{ name:'My SKUS', url:'page8.html', target:'_self'},
-			{ name:'Order',
+			{ name:'Order', open: true,
 				children: [
 					{ name:'Create GR Orders', url:'page51.html', target:'_self'},
 					{ name:'Create GI Orders', url:'page52.html', target:'_self'}
@@ -40,39 +39,39 @@ $(document).ready(function(){
 			]},
 		{ name:'WMS', open: true,
 			children: [
-			{ name:'Goods Receipt',
+			{ name:'Goods Receipt', open: true,
 				children: [
 					{ name:'Search', url:'page27.html', target:'_self'}
 				]},
-			{ name:'Put Away',
+			{ name:'Put Away', open: true,
 				children: [
 					{ name:'Search', url:'page29.html', target:'_self'}
 				]},
-			{ name:'Pick',
+			{ name:'Pick', open: true,
 				children: [
 					{ name:'Search', url:'page31.html', target:'_self'}
 				]},
-			{ name:'Deliery',
+			{ name:'Deliery', open: true,
 				children: [
 					{ name:'Search', url:'page33.html', target:'_self'}
 				]},
-			{ name:'Report',
+			{ name:'Report', open: true,
 				children: [
-					{ name:'Report', url:'page35.html', target:'_self'}
+					{ name:'Sku Aging Report', url:'page35.html', target:'_self'},
+					{ name:'Balance Report', url:'page56.html', target:'_self'}
 				]},
-			{ name:'System',
+			{ name:'System', open: true,
 				children: [
-					{ name:'User and Role',
+					{ name:'User and Role', open: true,
 						children: [
 								{ name:'User', url:'page37.html', target:'_self'},
 								{ name:'Role', url:'page38.html', target:'_self'}
 						]},
-					{ name:'Org Structrue',
+					{ name:'Org Structrue', open: true,
 						children: [
 								{ name:'Zone', url:'page40.html', target:'_self'},
 								{ name:'Bin', url:'page41.html', target:'_self'}
-						]},
-					{ name:'PDA Manager', url:'page42.html', target:'_self'}
+						]}
 				]}
 			]}
 	]
