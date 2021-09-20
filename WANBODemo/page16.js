@@ -33,7 +33,7 @@ $(document).ready(function(){
 				]},
 			{ name:'Put Away', open: true,
 				children: [
-					{ name:'Search', url:'page29.html', target:'_self'}
+					{ name:'Search', url:'page57.html', target:'_self'}
 				]},
 			{ name:'Pick', open: true,
 				children: [
@@ -70,6 +70,7 @@ jQuery().ready(function(){
 	jQuery('#page16_jDataGrid1_table').jqGrid({
 		datatype: 'local',
 		multiselect: true,
+		rownumbers: true,
 		altRows:true,
 		viewrecords: true,
 		colNames:['Order Type','Order','SKU','Qty','Delivery Date','Receive Date','Order Status','Logistics Track','Fee 1','Fee 2','Fee 3','Discount','Total Fee'],
@@ -88,8 +89,8 @@ jQuery().ready(function(){
 			{name:'A11',index:'A11', width:62},
 			{name:'A12',index:'A12', width:64}
 		],
-		width: 734,
-		height: 158,
+		width: 845,
+		height: 165,
 		rowNum:20,
 		pager: jQuery('#page16_jDataGrid1_pager')
 	}).navGrid('#page16_jDataGrid1_pager',{edit:false,add:false,del:false,refresh:false,search:false});

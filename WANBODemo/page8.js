@@ -33,7 +33,7 @@ $(document).ready(function(){
 				]},
 			{ name:'Put Away', open: true,
 				children: [
-					{ name:'Search', url:'page29.html', target:'_self'}
+					{ name:'Search', url:'page57.html', target:'_self'}
 				]},
 			{ name:'Pick', open: true,
 				children: [
@@ -75,14 +75,16 @@ jQuery().ready(function(){
 		viewrecords: true,
 		colNames:['SKU','Brand','Product Name','UoM','FBA#'],
 		colModel:[
-			{name:'A0',index:'A0', width:143},
-			{name:'A1',index:'A1', width:161},
-			{name:'A2',index:'A2', width:159},
-			{name:'A3',index:'A3', width:124},
-			{name:'A4',index:'A4', width:128}
+			{name:'A0',index:'A0', width:130},
+			{name:'A1',index:'A1', width:133},
+			{name:'A2',index:'A2', width:190},
+			{name:'A3',index:'A3', width:63},
+			{name:'A4',index:'A4', width:194}
 		],
-		width: 739,
-		height: 184
+		width: 724,
+		height: 158,
+		rowNum:20,
+		pager: jQuery('#page8_jDataGrid1_pager')
 	}).navGrid('#page8_jDataGrid1_pager',{edit:false,add:false,del:false,refresh:false,search:false});
 	$('#page8_jDataGrid1_table').closest('.ui-jqgrid-bdiv').css({'overflow-y': 'auto'});
 	$('#page8_jDataGrid1_table').jqGrid('addRowData',1,{A0:'',A1:'',A2:'',A3:'',A4:''});

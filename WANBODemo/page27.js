@@ -33,7 +33,7 @@ $(document).ready(function(){
 				]},
 			{ name:'Put Away', open: true,
 				children: [
-					{ name:'Search', url:'page29.html', target:'_self'}
+					{ name:'Search', url:'page57.html', target:'_self'}
 				]},
 			{ name:'Pick', open: true,
 				children: [
@@ -89,7 +89,9 @@ jQuery().ready(function(){
 			{name:'A11',index:'A11', width:71}
 		],
 		width: 739,
-		height: 184
+		height: 158,
+		rowNum:20,
+		pager: jQuery('#page27_jDataGrid1_pager')
 	}).navGrid('#page27_jDataGrid1_pager',{edit:false,add:false,del:false,refresh:false,search:false});
 	$('#page27_jDataGrid1_table').closest('.ui-jqgrid-bdiv').css({'overflow-y': 'auto'});
 	$('#page27_jDataGrid1_table').jqGrid('addRowData',1,{A0:'',A1:'',A2:'',A3:'',A4:'',A5:'',A6:'',A7:'',A8:'',A9:'',A10:'',A11:''});

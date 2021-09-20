@@ -46,7 +46,7 @@ $(document).ready(function(){
 				]},
 			{ name:'Put Away',
 				children: [
-					{ name:'Search', url:'page29.html', target:'_self'}
+					{ name:'Search', url:'#', target:'_self'}
 				]},
 			{ name:'Pick',
 				children: [

@@ -13,10 +13,9 @@ $(document).ready(function(){
 		,maskIframesOnResize: true
 	});
 	
-	page37_jContainer2_DataGrids=new Array("page37_jDataGrid1","49");
+	
 	page37_jContainer2_obj=$('#page37_jContainer2_container').layout({
-		onresize:function(){
-			Vjjq.resizegrid(page37_jContainer2_DataGrids);},
+		onresize:function(){},
 		center__paneSelector:'.page37_jContainer2_center'
 		,north__paneSelector:'.page37_jContainer2_north'
 		,north__size:	31
@@ -45,7 +44,7 @@ $(document).ready(function(){
 				]},
 			{ name:'Put Away', open: true,
 				children: [
-					{ name:'Search', url:'page29.html', target:'_self'}
+					{ name:'Search', url:'page57.html', target:'_self'}
 				]},
 			{ name:'Pick', open: true,
 				children: [
@@ -82,17 +81,18 @@ jQuery().ready(function(){
 	jQuery('#page37_jDataGrid1_table').jqGrid({
 		datatype: 'local',
 		multiselect: true,
+		rownumbers: true,
 		altRows:true,
 		viewrecords: true,
-		colNames:['User Code','User Name','Vaild From','Vaild To'],
+		colNames:['User Code','User Name','Valid From','Valid To'],
 		colModel:[
-			{name:'A0',index:'A0', width:93},
-			{name:'A1',index:'A1', width:64},
-			{name:'A2',index:'A2', width:64},
-			{name:'A3',index:'A3', width:94}
+			{name:'A0',index:'A0', width:212},
+			{name:'A1',index:'A1', width:199},
+			{name:'A2',index:'A2', width:146},
+			{name:'A3',index:'A3', width:141}
 		],
-		width: '100%',
-		height: '100%',
+		width: 724,
+		height: 158,
 		rowNum:20,
 		pager: jQuery('#page37_jDataGrid1_pager')
 	}).navGrid('#page37_jDataGrid1_pager',{edit:false,add:false,del:false,refresh:false,search:false});

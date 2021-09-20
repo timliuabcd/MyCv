@@ -33,7 +33,7 @@ $(document).ready(function(){
 				]},
 			{ name:'Put Away', open: true,
 				children: [
-					{ name:'Search', url:'page29.html', target:'_self'}
+					{ name:'Search', url:'page57.html', target:'_self'}
 				]},
 			{ name:'Pick', open: true,
 				children: [
@@ -75,11 +75,13 @@ jQuery().ready(function(){
 		viewrecords: true,
 		colNames:['Customer','Balance'],
 		colModel:[
-			{name:'A0',index:'A0', width:86},
-			{name:'A1',index:'A1', width:92}
+			{name:'A0',index:'A0', width:368},
+			{name:'A1',index:'A1', width:348}
 		],
 		width: 739,
-		height: 184
+		height: 165,
+		rowNum:20,
+		pager: jQuery('#page56_jDataGrid2_pager')
 	}).navGrid('#page56_jDataGrid2_pager',{edit:false,add:false,del:false,refresh:false,search:false});
 	$('#page56_jDataGrid2_table').closest('.ui-jqgrid-bdiv').css({'overflow-y': 'auto'});
 	$('#page56_jDataGrid2_table').jqGrid('addRowData',1,{A0:'',A1:''});

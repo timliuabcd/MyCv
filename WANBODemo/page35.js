@@ -33,7 +33,7 @@ $(document).ready(function(){
 				]},
 			{ name:'Put Away', open: true,
 				children: [
-					{ name:'Search', url:'page29.html', target:'_self'}
+					{ name:'Search', url:'page57.html', target:'_self'}
 				]},
 			{ name:'Pick', open: true,
 				children: [
@@ -75,14 +75,16 @@ jQuery().ready(function(){
 		viewrecords: true,
 		colNames:['Customer','Sku','Product Name','Location','Aging'],
 		colModel:[
-			{name:'A0',index:'A0', width:91},
-			{name:'A1',index:'A1', width:90},
-			{name:'A2',index:'A2', width:97},
-			{name:'A3',index:'A3', width:90},
+			{name:'A0',index:'A0', width:200},
+			{name:'A1',index:'A1', width:159},
+			{name:'A2',index:'A2', width:170},
+			{name:'A3',index:'A3', width:91},
 			{name:'A4',index:'A4', width:91}
 		],
 		width: 739,
-		height: 184
+		height: 165,
+		rowNum:20,
+		pager: jQuery('#page35_jDataGrid1_pager')
 	}).navGrid('#page35_jDataGrid1_pager',{edit:false,add:false,del:false,refresh:false,search:false});
 	$('#page35_jDataGrid1_table').closest('.ui-jqgrid-bdiv').css({'overflow-y': 'auto'});
 	$('#page35_jDataGrid1_table').jqGrid('addRowData',1,{A0:'',A1:'',A2:'',A3:'',A4:''});
