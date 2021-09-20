@@ -295,7 +295,7 @@ body{font-size:12px;}
   position:absolute;
   left: 0px;
   top: 0px;
-  width: 755px;
+  width: 799px;
   height: 527px;
 }
 
@@ -310,7 +310,7 @@ body{font-size:12px;}
   left: 8px;
   top: 40px;
   height: 283px;
-  width: 748px;
+  width: 841px;
 }
 
 #page8_jLabel4{
@@ -344,11 +344,7 @@ body{font-size:12px;}
   left: 0px;
   top: 36px;
   height: 208px;
-  width: 739px;
-}
-
-#page8_jDataGrid1 .ui-jqgrid{
-  border: none;
+  width: 724px;
 }
 
 #page8_jButton5{
@@ -356,6 +352,16 @@ body{font-size:12px;}
   top: 4px;
   width:89px;
   height:20px;
+}
+
+#page8_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
 }
 
 #page8_jExtPanel1{
@@ -383,16 +389,6 @@ body{font-size:12px;}
   top: 4px;
   height: 100%;
   width: 100%;
-}
-
-#page8_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
 }
 
 #page49_jExtPanel1{
@@ -933,9 +929,9 @@ body{font-size:12px;}
 
 #page16_jDataGrid1{
   left: 0px;
-  top: 36px;
-  height: 208px;
-  width: 734px;
+  top: 29px;
+  height: 215px;
+  width: 845px;
 }
 
 #page16_jButton1{
@@ -949,7 +945,17 @@ body{font-size:12px;}
   left: 0px;
   top: 38px;
   height: 283px;
-  width: 758px;
+  width: 856px;
+}
+
+#page16_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
 }
 
 #page16_jExtPanel1{
@@ -977,16 +983,6 @@ body{font-size:12px;}
   top: 4px;
   height: 100%;
   width: 100%;
-}
-
-#page16_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
 }
 
 #page19_jContainer1{
@@ -2756,35 +2752,11 @@ body{font-size:12px;}
   height:14px;
 }
 
-#page27_jDataGrid1{
-  left: 0px;
-  top: 36px;
-  height: 208px;
-  width: 739px;
-}
-
-#page27_jDataGrid1 .ui-jqgrid{
-  border: none;
-}
-
 #page27_jButton2{
   left: 611px;
   top: 45px;
   width:89px;
   height:20px;
-}
-
-#page27_jGroupBox1{
-  left: 3px;
-  top: 73px;
-  height: 283px;
-  width: 748px;
-}
-
-#page27_jLabel5{
-  left: 359px;
-  top: 225px;
-  line-height: 14px;
 }
 
 #page27_jLabel9{
@@ -2834,6 +2806,41 @@ body{font-size:12px;}
   top: 9px;
 }
 
+#page27_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
+#page27_jDataGrid1{
+  left: 0px;
+  top: 36px;
+  height: 208px;
+  width: 739px;
+}
+
+#page27_jDataGrid1 .ui-jqgrid{
+  border: none;
+}
+
+#page27_jGroupBox1{
+  left: 7px;
+  top: 77px;
+  height: 283px;
+  width: 783px;
+}
+
+#page27_jButton3{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
 #page27_jExtPanel1{
   left: 4px;
   top: 4px;
@@ -2859,23 +2866,6 @@ body{font-size:12px;}
   top: 4px;
   height: 100%;
   width: 100%;
-}
-
-#page27_jButton3{
-  left: 4px;
-  top: 4px;
-  width:56px;
-  height:20px;
-}
-
-#page27_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
 }
 
 #page28_jContainer1{
@@ -3087,169 +3077,6 @@ body{font-size:12px;}
   top: 4px;
   height: 100%;
   width: 100%;
-}
-
-#page29_jContainer1{
-  left: 0px;
-  top: 0px;
-  width: 100%;
-  height: 100%;
-}
-
-#page29_jRegion1{
-  border:none;
-  overflow:hidden;
-}
-
-#page29_jRegion2{
-  border:none;
-  overflow:hidden;
-}
-
-#page29_jRegion3{
-  border:none;
-  overflow:hidden;
-}
-
-#page29_jPanel1{
-  left: 0px;
-  top: 0px;
-  height: 94px;
-  width: 100%;
-  background: url(../images/jTitle001.jpg) repeat;
-}
-
-#page29_jPanel3{
-  left: 0px;
-  top: 93px;
-  height: 31px;
-  right: 0px;
-}
-
-#page29_jHtmlForm1_form{
-  position:absolute;
-  left: 4px;
-  top: 4px;
-  width: 755px;
-  height: 527px;
-}
-
-#page29_jLabel7{
-  left: 18px;
-  top: 35px;
-  line-height: 14px;
-}
-
-#page29_jEdit1{
-  left: 96px;
-  top: 32px;
-  width:219px;
-  height:14px;
-}
-
-#page29_jDataGrid1{
-  left: 0px;
-  top: 36px;
-  height: 208px;
-  width: 739px;
-}
-
-#page29_jButton1{
-  left: 347px;
-  top: 30px;
-  width:56px;
-  height:20px;
-}
-
-#page29_jGroupBox1{
-  left: 3px;
-  top: 73px;
-  height: 283px;
-  width: 748px;
-}
-
-#page29_jLabel8{
-  left: 359px;
-  top: 225px;
-  line-height: 14px;
-}
-
-#page29_jPanel2{
-  right: 0px;
-  top: 12px;
-  height: 39px;
-  width: 202px;
-}
-
-#page29_jLink1{
-  left: 12px;
-  top: 9px;
-}
-
-#page29_jLabel2{
-  left: 61px;
-  top: 9px;
-  line-height: 14px;
-}
-
-#page29_jLink2{
-  left: 73px;
-  top: 9px;
-}
-
-#page29_jLabel3{
-  left: 133px;
-  top: 9px;
-  line-height: 14px;
-}
-
-#page29_jLink3{
-  left: 145px;
-  top: 9px;
-}
-
-#page29_jExtPanel1{
-  left: 4px;
-  top: 4px;
-  height: 100%;
-  width: 100%;
-}
-
-#page29_jExtPanel1 .PanelBarCaption{
-}
-
-#page29_jExtPanel1 .PanelContent{
-}
-
-#page29_jExtPanel1 .cumicon{
-  background:url(../images/) no-repeat;
-  width:16px;
-  height:16px;
-  margin: 2px 5px 0 2px;
-}
-
-#page29_jTreeView1{
-  left: 4px;
-  top: 4px;
-  height: 100%;
-  width: 100%;
-}
-
-#page29_jButton2{
-  left: 4px;
-  top: 4px;
-  width:56px;
-  height:20px;
-}
-
-#page29_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
 }
 
 #page30_jContainer1{
@@ -3555,6 +3382,23 @@ body{font-size:12px;}
   height:14px;
 }
 
+#page31_jButton1{
+  left: 347px;
+  top: 30px;
+  width:56px;
+  height:20px;
+}
+
+#page31_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
 #page31_jDataGrid1{
   left: 0px;
   top: 36px;
@@ -3566,24 +3410,18 @@ body{font-size:12px;}
   border: none;
 }
 
-#page31_jButton1{
-  left: 347px;
-  top: 30px;
+#page31_jButton2{
+  left: 4px;
+  top: 4px;
   width:56px;
   height:20px;
 }
 
 #page31_jGroupBox1{
-  left: 3px;
-  top: 73px;
+  left: 7px;
+  top: 77px;
   height: 283px;
-  width: 748px;
-}
-
-#page31_jLabel5{
-  left: 359px;
-  top: 225px;
-  line-height: 14px;
+  width: 810px;
 }
 
 #page31_jExtPanel1{
@@ -3611,23 +3449,6 @@ body{font-size:12px;}
   top: 4px;
   height: 100%;
   width: 100%;
-}
-
-#page31_jButton2{
-  left: 4px;
-  top: 4px;
-  width:56px;
-  height:20px;
-}
-
-#page31_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
 }
 
 #page32_jContainer1{
@@ -3933,6 +3754,23 @@ body{font-size:12px;}
   height:14px;
 }
 
+#page33_jButton1{
+  left: 347px;
+  top: 30px;
+  width:56px;
+  height:20px;
+}
+
+#page33_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
 #page33_jDataGrid1{
   left: 0px;
   top: 36px;
@@ -3944,24 +3782,18 @@ body{font-size:12px;}
   border: none;
 }
 
-#page33_jButton1{
-  left: 347px;
-  top: 30px;
+#page33_jGroupBox1{
+  left: 7px;
+  top: 77px;
+  height: 283px;
+  width: 847px;
+}
+
+#page33_jButton2{
+  left: 4px;
+  top: 4px;
   width:56px;
   height:20px;
-}
-
-#page33_jGroupBox1{
-  left: 3px;
-  top: 73px;
-  height: 283px;
-  width: 748px;
-}
-
-#page33_jLabel5{
-  left: 359px;
-  top: 225px;
-  line-height: 14px;
 }
 
 #page33_jExtPanel1{
@@ -3989,23 +3821,6 @@ body{font-size:12px;}
   top: 4px;
   height: 100%;
   width: 100%;
-}
-
-#page33_jButton2{
-  left: 4px;
-  top: 4px;
-  width:56px;
-  height:20px;
-}
-
-#page33_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
 }
 
 #page34_jContainer1{
@@ -4313,8 +4128,8 @@ body{font-size:12px;}
 
 #page35_jDataGrid1{
   left: 0px;
-  top: 36px;
-  height: 208px;
+  top: 0px;
+  height: 215px;
   width: 739px;
 }
 
@@ -4330,6 +4145,16 @@ body{font-size:12px;}
   top: 73px;
   height: 219px;
   width: 754px;
+}
+
+#page35_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
 }
 
 #page35_jExtPanel1{
@@ -4357,16 +4182,6 @@ body{font-size:12px;}
   top: 4px;
   height: 100%;
   width: 100%;
-}
-
-#page35_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
 }
 
 #page36_jContainer1{
@@ -4654,22 +4469,11 @@ body{font-size:12px;}
   overflow:hidden;
 }
 
-#page37_jDataGrid1{
-  left: 0px;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-}
-
-#page37_jDataGrid1 .ui-jqgrid{
-  border: none;
-}
-
 #page37_jToolbar1{
   left: 0px;
   top: 0px;
-  bottom: 0px;
-  right: 0px;
+  height: 40px;
+  width: 758px;
   border-left:none;
   border-right:none;
 }
@@ -4678,21 +4482,21 @@ body{font-size:12px;}
   left: 4px;
   top: 3px;
   width:67px;
-  height: 22px;
+  height:20px;
 }
 
 #page37_jButton3{
   left: 106px;
   top: 3px;
   width:67px;
-  height: 22px;
+  height:20px;
 }
 
 #page37_jButton2{
   left: 208px;
   top: 3px;
-  width:105px;
-  height: 22px;
+  width:67px;
+  height:20px;
 }
 
 #page37_jSeparator1{
@@ -4736,6 +4540,16 @@ body{font-size:12px;}
   top: 9px;
 }
 
+#page37_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
+}
+
 #page37_jExtPanel1{
   left: 4px;
   top: 4px;
@@ -4763,14 +4577,11 @@ body{font-size:12px;}
   width: 100%;
 }
 
-#page37_jLabel1{
-  left: 4px;
-  top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
+#page37_jDataGrid1{
+  left: 8px;
+  top: 8px;
+  height: 208px;
+  width: 724px;
 }
 
 #page38_jContainer1{
@@ -4881,17 +4692,6 @@ body{font-size:12px;}
   overflow:hidden;
 }
 
-#page38_jDataGrid1{
-  left: 0px;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-}
-
-#page38_jDataGrid1 .ui-jqgrid{
-  border: none;
-}
-
 #page38_jToolbar1{
   left: 0px;
   top: 0px;
@@ -4905,14 +4705,14 @@ body{font-size:12px;}
   left: 4px;
   top: 3px;
   width:56px;
-  height: 22px;
+  height:20px;
 }
 
 #page38_jButton3{
   left: 72px;
   top: 3px;
   width:56px;
-  height: 22px;
+  height:20px;
 }
 
 #page38_jSeparator1{
@@ -4920,6 +4720,16 @@ body{font-size:12px;}
   top: 5px;
   height: 18px;
   width: 8px;
+}
+
+#page38_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
 }
 
 #page38_jExtPanel1{
@@ -4949,14 +4759,11 @@ body{font-size:12px;}
   width: 100%;
 }
 
-#page38_jLabel1{
+#page38_jDataGrid1{
   left: 4px;
   top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
+  height: 208px;
+  width: 724px;
 }
 
 #page39_jContainer1{
@@ -5278,17 +5085,6 @@ body{font-size:12px;}
   overflow:hidden;
 }
 
-#page40_jDataGrid1{
-  left: 0px;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-}
-
-#page40_jDataGrid1 .ui-jqgrid{
-  border: none;
-}
-
 #page40_jToolbar1{
   left: 0px;
   top: 0px;
@@ -5309,7 +5105,17 @@ body{font-size:12px;}
   left: 4px;
   top: 4px;
   width:56px;
-  height: 22px;
+  height:20px;
+}
+
+#page40_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
 }
 
 #page40_jExtPanel1{
@@ -5339,14 +5145,11 @@ body{font-size:12px;}
   width: 100%;
 }
 
-#page40_jLabel1{
+#page40_jDataGrid1{
   left: 4px;
   top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
+  height: 208px;
+  width: 724px;
 }
 
 #page41_jContainer1{
@@ -5450,17 +5253,6 @@ body{font-size:12px;}
   overflow:hidden;
 }
 
-#page41_jDataGrid1{
-  left: 0px;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-}
-
-#page41_jDataGrid1 .ui-jqgrid{
-  border: none;
-}
-
 #page41_jToolbar1{
   left: 0px;
   top: 0px;
@@ -5474,14 +5266,14 @@ body{font-size:12px;}
   left: 5px;
   top: 5px;
   width:56px;
-  height: 22px;
+  height:20px;
 }
 
 #page41_jButton1{
   left: 78px;
   top: 6px;
   width:56px;
-  height: 22px;
+  height:20px;
 }
 
 #page41_jSeparator1{
@@ -5496,6 +5288,16 @@ body{font-size:12px;}
   top: 95px;
   height: 31px;
   right: 0px;
+}
+
+#page41_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
 }
 
 #page41_jExtPanel1{
@@ -5525,14 +5327,11 @@ body{font-size:12px;}
   width: 100%;
 }
 
-#page41_jLabel1{
+#page41_jDataGrid1{
   left: 4px;
   top: 4px;
-  font-size: 24px;
-  font-family: "微软雅黑 Light";
-  font-weight: bold;
-  color: #666666;
-  line-height: 26px;
+  height: 208px;
+  width: 724px;
 }
 
 #page42_jContainer1{
@@ -6214,10 +6013,10 @@ body{font-size:12px;}
 
 #page54_jHtmlForm1_form{
   position:absolute;
-  left: 0px;
-  top: 0px;
-  width: 1011px;
-  height: 422px;
+  left: 4px;
+  top: 4px;
+  width: 1001px;
+  height: 457px;
 }
 
 #page54_jLabel1{
@@ -6233,14 +6032,14 @@ body{font-size:12px;}
   height:14px;
 }
 
-#page54_jEdit9{
+#page54_jEdit2{
   left: 728px;
   top: 64px;
   width:217px;
   height:14px;
 }
 
-#page54_jEdit10{
+#page54_jEdit3{
   left: 728px;
   top: 102px;
   width:217px;
@@ -6253,45 +6052,45 @@ body{font-size:12px;}
   line-height: 14px;
 }
 
-#page54_jEdit2{
+#page54_jEdit4{
   left: 140px;
   top: 62px;
   width:217px;
   height:14px;
 }
 
-#page54_jEdit11{
+#page54_jEdit5{
   left: 728px;
   top: 138px;
   width:217px;
   height:14px;
 }
 
-#page54_jLabel4{
+#page54_jLabel3{
   left: 115px;
   top: 273px;
   line-height: 14px;
 }
 
-#page54_jLabel5{
+#page54_jLabel4{
   left: 30px;
   top: 305px;
   line-height: 14px;
 }
 
-#page54_jLabel6{
+#page54_jLabel5{
   left: 265px;
   top: 305px;
   line-height: 14px;
 }
 
-#page54_jLabel3{
+#page54_jLabel6{
   left: 45px;
   top: 100px;
   line-height: 14px;
 }
 
-#page54_jEdit3{
+#page54_jEdit6{
   left: 140px;
   top: 99px;
   width:217px;
@@ -6312,34 +6111,27 @@ body{font-size:12px;}
   position:absolute;
 }
 
-#page54_jEdit8{
+#page54_jEdit7{
   left: 140px;
   top: 136px;
   width:217px;
   height:14px;
 }
 
-#page54_jLabel9{
-  left: 744px;
-  top: 383px;
-  line-height: 14px;
-}
-
 #page54_jButton1{
-  left: 1028px;
-  top: 371px;
-  width:90px;
-  height:20px;
-}
-
-#page54_jButton2{
-  left: 1137px;
-  top: 371px;
+  left: 741px;
+  top: 342px;
   width:90px;
   height:20px;
 }
 
 #page54_jLabel8{
+  left: 744px;
+  top: 383px;
+  line-height: 14px;
+}
+
+#page54_jLabel9{
   left: 45px;
   top: 137px;
   line-height: 14px;
@@ -6351,7 +6143,7 @@ body{font-size:12px;}
   line-height: 14px;
 }
 
-#page54_jEdit5{
+#page54_jEdit8{
   left: 140px;
   top: 167px;
   width:217px;
@@ -6364,7 +6156,7 @@ body{font-size:12px;}
   line-height: 14px;
 }
 
-#page54_jEdit6{
+#page54_jEdit9{
   left: 140px;
   top: 204px;
   width:217px;
@@ -6377,7 +6169,7 @@ body{font-size:12px;}
   line-height: 14px;
 }
 
-#page54_jEdit7{
+#page54_jEdit10{
   left: 728px;
   top: 24px;
   width:217px;
@@ -6408,7 +6200,7 @@ body{font-size:12px;}
   line-height: 14px;
 }
 
-#page54_jEdit12{
+#page54_jEdit11{
   left: 728px;
   top: 172px;
   width:217px;
@@ -6421,18 +6213,11 @@ body{font-size:12px;}
   line-height: 14px;
 }
 
-#page54_jEdit13{
+#page54_jEdit12{
   left: 728px;
   top: 205px;
   width:217px;
   height:14px;
-}
-
-#page54_jButton3{
-  left: 741px;
-  top: 342px;
-  width:90px;
-  height:20px;
 }
 
 #page54_jButton4{
@@ -6787,13 +6572,9 @@ body{font-size:12px;}
 
 #page56_jDataGrid2{
   left: 0px;
-  top: 36px;
-  height: 208px;
+  top: 0px;
+  height: 215px;
   width: 739px;
-}
-
-#page56_jDataGrid2 .ui-jqgrid{
-  border: none;
 }
 
 #page56_jButton2{
@@ -6808,6 +6589,16 @@ body{font-size:12px;}
   top: 72px;
   height: 214px;
   width: 754px;
+}
+
+#page56_jLabel1{
+  left: 4px;
+  top: 4px;
+  font-size: 24px;
+  font-family: "微软雅黑 Light";
+  font-weight: bold;
+  color: #666666;
+  line-height: 26px;
 }
 
 #page56_jExtPanel1{
@@ -6837,7 +6628,133 @@ body{font-size:12px;}
   width: 100%;
 }
 
-#page56_jLabel1{
+#page57_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page57_jRegion1{
+  border:none;
+  overflow:hidden;
+}
+
+#page57_jRegion2{
+  border:none;
+  overflow:hidden;
+}
+
+#page57_jRegion3{
+  border:none;
+  overflow:hidden;
+}
+
+#page57_jPanel1{
+  left: 0px;
+  top: 0px;
+  height: 94px;
+  width: 100%;
+  background: url(../images/jTitle001.jpg) repeat;
+}
+
+#page57_jPanel3{
+  left: 0px;
+  top: 93px;
+  height: 31px;
+  right: 0px;
+}
+
+#page57_jHtmlForm1_form{
+  position:absolute;
+  left: 4px;
+  top: 4px;
+  width: 755px;
+  height: 581px;
+}
+
+#page57_jLabel7{
+  left: 18px;
+  top: 35px;
+  line-height: 14px;
+}
+
+#page57_jEdit1{
+  left: 96px;
+  top: 32px;
+  width:219px;
+  height:14px;
+}
+
+#page57_jButton1{
+  left: 347px;
+  top: 30px;
+  width:56px;
+  height:20px;
+}
+
+#page57_jPanel2{
+  right: 0px;
+  top: 12px;
+  height: 39px;
+  width: 202px;
+}
+
+#page57_jLink1{
+  left: 12px;
+  top: 9px;
+}
+
+#page57_jLabel2{
+  left: 61px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page57_jLink2{
+  left: 73px;
+  top: 9px;
+}
+
+#page57_jLabel3{
+  left: 133px;
+  top: 9px;
+  line-height: 14px;
+}
+
+#page57_jLink3{
+  left: 145px;
+  top: 9px;
+}
+
+#page57_jExtPanel1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page57_jExtPanel1 .PanelBarCaption{
+}
+
+#page57_jExtPanel1 .PanelContent{
+}
+
+#page57_jExtPanel1 .cumicon{
+  background:url(../images/) no-repeat;
+  width:16px;
+  height:16px;
+  margin: 2px 5px 0 2px;
+}
+
+#page57_jTreeView1{
+  left: 4px;
+  top: 4px;
+  height: 100%;
+  width: 100%;
+}
+
+#page57_jLabel1{
   left: 4px;
   top: 4px;
   font-size: 24px;
@@ -6845,5 +6762,142 @@ body{font-size:12px;}
   font-weight: bold;
   color: #666666;
   line-height: 26px;
+}
+
+#page57_jGroupBox1{
+  left: 15px;
+  top: 85px;
+  height: 283px;
+  width: 765px;
+}
+
+#page57_jButton2{
+  left: 4px;
+  top: 4px;
+  width:56px;
+  height:20px;
+}
+
+#page57_jDataGrid1{
+  left: 4px;
+  top: 40px;
+  height: 208px;
+  width: 739px;
+}
+
+#page58_jDialog1{
+}
+
+#page58_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page58_jLabel3{
+  left: 44px;
+  top: 38px;
+  line-height: 14px;
+}
+
+#page58_jComboBox1{
+  left: 143px;
+  top: 35px;
+  height: 20px;
+  width: 150px;
+  position:absolute;
+}
+
+#page58_jLabel1{
+  left: 50px;
+  top: 77px;
+  line-height: 14px;
+}
+
+#page58_jEdit1{
+  left: 141px;
+  top: 77px;
+  width:217px;
+  height:14px;
+}
+
+#page58_jLabel2{
+  left: 50px;
+  top: 114px;
+  line-height: 14px;
+}
+
+#page58_jEdit2{
+  left: 141px;
+  top: 113px;
+  width:217px;
+  height:14px;
+}
+
+#page58_jButton1{
+  left: 549px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page58_jButton2{
+  left: 658px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page59_jDialog1{
+}
+
+#page59_jHtmlForm1_form{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  width: 778px;
+  height: 284px;
+}
+
+#page59_jLabel1{
+  left: 50px;
+  top: 77px;
+  line-height: 14px;
+}
+
+#page59_jEdit1{
+  left: 141px;
+  top: 77px;
+  width:217px;
+  height:14px;
+}
+
+#page59_jLabel2{
+  left: 50px;
+  top: 114px;
+  line-height: 14px;
+}
+
+#page59_jEdit2{
+  left: 141px;
+  top: 113px;
+  width:217px;
+  height:14px;
+}
+
+#page59_jButton1{
+  left: 549px;
+  top: 239px;
+  width:90px;
+  height:20px;
+}
+
+#page59_jButton2{
+  left: 658px;
+  top: 239px;
+  width:90px;
+  height:20px;
 }
 
